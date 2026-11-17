@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0B0812"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="2"/>
+  <text x="32" y="41" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="24" font-weight="700" fill="#F8F7FF">E<tspan fill="#A78BFA">W</tspan></text>
+  <circle cx="51" cy="51" r="3" fill="#F97316"/>
+</svg>
